@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.AI;
+using UnityEngine.AI; // Needed for working with AI
 
 public class WumpusStates : MonoBehaviour
 {
